@@ -1,0 +1,1102 @@
+R 	china_future 	connected!
+S 	china_future 	login: brokerID:7030 userID:98507 password:123456 seq:0
+R 	china_future 	login success
+S 	china_future 	query settlement: brokerID:7030 userID:98507 seq:1
+R 	china_future 	query settlement: finish
+S 	china_future 	confirm: brokerID:7030 userID:98507 seq:2
+R 	china_future 	confirm: finish
+S 	china_future 	query all futures, seq:3
+R 	china_future 	instrument:a1411
+R 	china_future 	instrument:SR411
+R 	china_future 	instrument:fu1410
+R 	china_future 	instrument:a1503
+R 	china_future 	instrument:bu1503
+R 	china_future 	instrument:bu1506
+R 	china_future 	instrument:bu1509
+R 	china_future 	instrument:ag1410
+R 	china_future 	instrument:wr1411
+R 	china_future 	instrument:zn1411
+R 	china_future 	instrument:b1411
+R 	china_future 	instrument:c1411
+R 	china_future 	instrument:OI411
+R 	china_future 	instrument:PM411
+R 	china_future 	instrument:RS411
+R 	china_future 	instrument:TA411
+R 	china_future 	instrument:WH411
+R 	china_future 	instrument:TC411
+R 	china_future 	instrument:SR505
+R 	china_future 	instrument:jd1410
+R 	china_future 	instrument:a1501
+R 	china_future 	instrument:SR501
+R 	china_future 	instrument:bu1412
+R 	china_future 	instrument:al1410
+R 	china_future 	instrument:TC410
+R 	china_future 	instrument:FG410
+R 	china_future 	instrument:ME410
+R 	china_future 	instrument:jm1410
+R 	china_future 	instrument:l1410
+R 	china_future 	instrument:p1410
+R 	china_future 	instrument:v1410
+R 	china_future 	instrument:pb1411
+R 	china_future 	instrument:rb1411
+R 	china_future 	instrument:ru1411
+R 	china_future 	instrument:a1505
+R 	china_future 	instrument:i1411
+R 	china_future 	instrument:j1411
+R 	china_future 	instrument:jm1411
+R 	china_future 	instrument:l1411
+R 	china_future 	instrument:m1411
+R 	china_future 	instrument:p1411
+R 	china_future 	instrument:cu1410
+R 	china_future 	instrument:pb1410
+R 	china_future 	instrument:au1410
+R 	china_future 	instrument:TA410
+R 	china_future 	instrument:v1411
+R 	china_future 	instrument:y1411
+R 	china_future 	instrument:CF411
+R 	china_future 	instrument:FG411
+R 	china_future 	instrument:JR411
+R 	china_future 	instrument:au1412
+R 	china_future 	instrument:cu1412
+R 	china_future 	instrument:pb1412
+R 	china_future 	instrument:rb1412
+R 	china_future 	instrument:wr1412
+R 	china_future 	instrument:zn1412
+R 	china_future 	instrument:bu1512
+R 	china_future 	instrument:fu1412
+R 	china_future 	instrument:i1412
+R 	china_future 	instrument:j1412
+R 	china_future 	instrument:l1412
+R 	china_future 	instrument:wr1410
+R 	china_future 	instrument:zn1410
+R 	china_future 	instrument:j1410
+R 	china_future 	instrument:ag1411
+R 	china_future 	instrument:cu1411
+R 	china_future 	instrument:ME411
+R 	china_future 	instrument:RI411
+R 	china_future 	instrument:RM411
+R 	china_future 	instrument:jd1411
+R 	china_future 	instrument:al1412
+R 	china_future 	instrument:ag1412
+R 	china_future 	instrument:jm1412
+R 	china_future 	instrument:m1412
+R 	china_future 	instrument:p1412
+R 	china_future 	instrument:v1412
+R 	china_future 	instrument:y1412
+R 	china_future 	instrument:FG412
+R 	china_future 	instrument:ME412
+R 	china_future 	instrument:TA412
+R 	china_future 	instrument:TC412
+R 	china_future 	instrument:jd1412
+R 	china_future 	instrument:SR503
+R 	china_future 	instrument:rb1410
+R 	china_future 	instrument:ru1410
+R 	china_future 	instrument:i1410
+R 	china_future 	instrument:fu1411
+R 	china_future 	instrument:al1411
+R 	china_future 	instrument:fu1501
+R 	china_future 	instrument:cu1501
+R 	china_future 	instrument:v1502
+R 	china_future 	instrument:FG502
+R 	china_future 	instrument:pp1411
+R 	china_future 	instrument:pp1412
+R 	china_future 	instrument:FG503
+R 	china_future 	instrument:p1506
+R 	china_future 	instrument:pp1506
+R 	china_future 	instrument:v1506
+R 	china_future 	instrument:FG506
+R 	china_future 	instrument:TA506
+R 	china_future 	instrument:MA506
+R 	china_future 	instrument:ru1506
+R 	china_future 	instrument:TF1503
+R 	china_future 	instrument:ag1507
+R 	china_future 	instrument:al1507
+R 	china_future 	instrument:cu1507
+R 	china_future 	instrument:hc1507
+R 	china_future 	instrument:pb1507
+R 	china_future 	instrument:rb1507
+R 	china_future 	instrument:ru1507
+R 	china_future 	instrument:wr1507
+R 	china_future 	instrument:zn1507
+R 	china_future 	instrument:bu1501
+R 	china_future 	instrument:au1506
+R 	china_future 	instrument:fb1412
+R 	china_future 	instrument:zn1501
+R 	china_future 	instrument:bb1411
+R 	china_future 	instrument:FG501
+R 	china_future 	instrument:TA501
+R 	china_future 	instrument:WH501
+R 	china_future 	instrument:l1502
+R 	china_future 	instrument:TC502
+R 	china_future 	instrument:pp1410
+R 	china_future 	instrument:fu1503
+R 	china_future 	instrument:pb1503
+R 	china_future 	instrument:c1503
+R 	china_future 	instrument:j1503
+R 	china_future 	instrument:l1503
+R 	china_future 	instrument:m1503
+R 	china_future 	instrument:CF503
+R 	china_future 	instrument:PM503
+R 	china_future 	instrument:WH503
+R 	china_future 	instrument:hc1501
+R 	china_future 	instrument:al1505
+R 	china_future 	instrument:pb1505
+R 	china_future 	instrument:ru1505
+R 	china_future 	instrument:bb1505
+R 	china_future 	instrument:al1501
+R 	china_future 	instrument:pb1501
+R 	china_future 	instrument:ru1501
+R 	china_future 	instrument:p1501
+R 	china_future 	instrument:ag1502
+R 	china_future 	instrument:TC503
+R 	china_future 	instrument:OI503
+R 	china_future 	instrument:hc1411
+R 	china_future 	instrument:hc1412
+R 	china_future 	instrument:cu1504
+R 	china_future 	instrument:rb1504
+R 	china_future 	instrument:bu1410
+R 	china_future 	instrument:bb1504
+R 	china_future 	instrument:i1504
+R 	china_future 	instrument:j1504
+R 	china_future 	instrument:jd1504
+R 	china_future 	instrument:pp1504
+R 	china_future 	instrument:FG504
+R 	china_future 	instrument:TA504
+R 	china_future 	instrument:IF1412
+R 	china_future 	instrument:hc1505
+R 	china_future 	instrument:zn1505
+R 	china_future 	instrument:bu1411
+R 	china_future 	instrument:b1505
+R 	china_future 	instrument:fb1505
+R 	china_future 	instrument:a1507
+R 	china_future 	instrument:b1501
+R 	china_future 	instrument:bb1501
+R 	china_future 	instrument:i1501
+R 	china_future 	instrument:jd1501
+R 	china_future 	instrument:jm1501
+R 	china_future 	instrument:l1501
+R 	china_future 	instrument:m1501
+R 	china_future 	instrument:v1501
+R 	china_future 	instrument:y1501
+R 	china_future 	instrument:pp1502
+R 	china_future 	instrument:ag1505
+R 	china_future 	instrument:wr1505
+R 	china_future 	instrument:a1511
+R 	china_future 	instrument:i1505
+R 	china_future 	instrument:jd1505
+R 	china_future 	instrument:jm1505
+R 	china_future 	instrument:l1505
+R 	china_future 	instrument:m1505
+R 	china_future 	instrument:p1505
+R 	china_future 	instrument:v1505
+R 	china_future 	instrument:y1505
+R 	china_future 	instrument:JR505
+R 	china_future 	instrument:ME505
+R 	china_future 	instrument:OI505
+R 	china_future 	instrument:RI505
+R 	china_future 	instrument:TA505
+R 	china_future 	instrument:bb1410
+R 	china_future 	instrument:rb1501
+R 	china_future 	instrument:wr1501
+R 	china_future 	instrument:c1501
+R 	china_future 	instrument:fb1501
+R 	china_future 	instrument:bb1502
+R 	china_future 	instrument:i1502
+R 	china_future 	instrument:j1502
+R 	china_future 	instrument:jm1502
+R 	china_future 	instrument:p1502
+R 	china_future 	instrument:ME502
+R 	china_future 	instrument:TA502
+R 	china_future 	instrument:pp1501
+R 	china_future 	instrument:SR509
+R 	china_future 	instrument:ag1503
+R 	china_future 	instrument:al1503
+R 	china_future 	instrument:cu1503
+R 	china_future 	instrument:rb1503
+R 	china_future 	instrument:ru1503
+R 	china_future 	instrument:wr1503
+R 	china_future 	instrument:bu1603
+R 	china_future 	instrument:a1509
+R 	china_future 	instrument:b1503
+R 	china_future 	instrument:bb1503
+R 	china_future 	instrument:fb1503
+R 	china_future 	instrument:RI501
+R 	china_future 	instrument:JR501
+R 	china_future 	instrument:rb1502
+R 	china_future 	instrument:zn1502
+R 	china_future 	instrument:i1503
+R 	china_future 	instrument:zn1503
+R 	china_future 	instrument:jd1503
+R 	china_future 	instrument:jm1503
+R 	china_future 	instrument:pp1503
+R 	china_future 	instrument:v1503
+R 	china_future 	instrument:y1503
+R 	china_future 	instrument:JR503
+R 	china_future 	instrument:RM503
+R 	china_future 	instrument:TA503
+R 	china_future 	instrument:TF1412
+R 	china_future 	instrument:hc1410
+R 	china_future 	instrument:fu1504
+R 	china_future 	instrument:au1504
+R 	china_future 	instrument:ru1504
+R 	china_future 	instrument:zn1504
+R 	china_future 	instrument:jm1504
+R 	china_future 	instrument:l1504
+R 	china_future 	instrument:p1504
+R 	china_future 	instrument:v1504
+R 	china_future 	instrument:ME504
+R 	china_future 	instrument:cu1505
+R 	china_future 	instrument:rb1505
+R 	china_future 	instrument:c1505
+R 	china_future 	instrument:j1505
+R 	china_future 	instrument:pp1505
+R 	china_future 	instrument:fb1410
+R 	china_future 	instrument:fb1411
+R 	china_future 	instrument:bb1412
+R 	china_future 	instrument:OI501
+R 	china_future 	instrument:j1501
+R 	china_future 	instrument:al1502
+R 	china_future 	instrument:au1502
+R 	china_future 	instrument:cu1502
+R 	china_future 	instrument:fb1502
+R 	china_future 	instrument:jd1502
+R 	china_future 	instrument:ME503
+R 	china_future 	instrument:RI503
+R 	china_future 	instrument:hc1503
+R 	china_future 	instrument:ag1504
+R 	china_future 	instrument:TC504
+R 	china_future 	instrument:CF505
+R 	china_future 	instrument:PM505
+R 	china_future 	instrument:RM505
+R 	china_future 	instrument:WH505
+R 	china_future 	instrument:SR511
+R 	china_future 	instrument:fu1506
+R 	china_future 	instrument:TC506
+R 	china_future 	instrument:bu1606
+R 	china_future 	instrument:ag1506
+R 	china_future 	instrument:al1506
+R 	china_future 	instrument:cu1506
+R 	china_future 	instrument:hc1506
+R 	china_future 	instrument:ag1501
+R 	china_future 	instrument:CF501
+R 	china_future 	instrument:TC501
+R 	china_future 	instrument:ME501
+R 	china_future 	instrument:PM501
+R 	china_future 	instrument:RM501
+R 	china_future 	instrument:SR507
+R 	china_future 	instrument:pb1502
+R 	china_future 	instrument:wr1502
+R 	china_future 	instrument:p1503
+R 	china_future 	instrument:hc1502
+R 	china_future 	instrument:al1504
+R 	china_future 	instrument:hc1504
+R 	china_future 	instrument:pb1504
+R 	china_future 	instrument:wr1504
+R 	china_future 	instrument:fb1504
+R 	china_future 	instrument:fu1505
+R 	china_future 	instrument:TC505
+R 	china_future 	instrument:FG505
+R 	china_future 	instrument:pb1506
+R 	china_future 	instrument:rb1506
+R 	china_future 	instrument:wr1506
+R 	china_future 	instrument:zn1506
+R 	china_future 	instrument:bb1506
+R 	china_future 	instrument:fb1506
+R 	china_future 	instrument:i1506
+R 	china_future 	instrument:j1506
+R 	china_future 	instrument:jd1506
+R 	china_future 	instrument:jm1506
+R 	china_future 	instrument:l1506
+R 	china_future 	instrument:m1507
+R 	china_future 	instrument:RI507
+R 	china_future 	instrument:WH507
+R 	china_future 	instrument:LR503
+R 	china_future 	instrument:MA507
+R 	china_future 	instrument:SM502
+R 	china_future 	instrument:SM508
+R 	china_future 	instrument:fu1509
+R 	china_future 	instrument:fb1509
+R 	china_future 	instrument:pp1509
+R 	china_future 	instrument:v1509
+R 	china_future 	instrument:SF509
+R 	china_future 	instrument:WH509
+R 	china_future 	instrument:al1509
+R 	china_future 	instrument:JR509
+R 	china_future 	instrument:LR509
+R 	china_future 	instrument:RI509
+R 	china_future 	instrument:RS509
+R 	china_future 	instrument:TA509
+R 	china_future 	instrument:ag1509
+R 	china_future 	instrument:SM509
+R 	china_future 	instrument:au1508
+R 	china_future 	instrument:cu1509
+R 	china_future 	instrument:hc1509
+R 	china_future 	instrument:zn1509
+R 	china_future 	instrument:c1509
+R 	china_future 	instrument:j1509
+R 	china_future 	instrument:jm1509
+R 	china_future 	instrument:m1509
+R 	china_future 	instrument:OI507
+R 	china_future 	instrument:PM507
+R 	china_future 	instrument:TA507
+R 	china_future 	instrument:SR601
+R 	china_future 	instrument:ag1508
+R 	china_future 	instrument:al1508
+R 	china_future 	instrument:cu1508
+R 	china_future 	instrument:hc1508
+R 	china_future 	instrument:pb1508
+R 	china_future 	instrument:rb1508
+R 	china_future 	instrument:zn1508
+R 	china_future 	instrument:au1411
+R 	china_future 	instrument:bu1502
+R 	china_future 	instrument:fu1508
+R 	china_future 	instrument:fb1508
+R 	china_future 	instrument:j1508
+R 	china_future 	instrument:y1508
+R 	china_future 	instrument:FG508
+R 	china_future 	instrument:RS508
+R 	china_future 	instrument:TA508
+R 	china_future 	instrument:TC508
+R 	china_future 	instrument:SF411
+R 	china_future 	instrument:p1509
+R 	china_future 	instrument:y1509
+R 	china_future 	instrument:FG509
+R 	china_future 	instrument:MA509
+R 	china_future 	instrument:OI509
+R 	china_future 	instrument:PM509
+R 	china_future 	instrument:RM509
+R 	china_future 	instrument:i1507
+R 	china_future 	instrument:i1508
+R 	china_future 	instrument:IF1503
+R 	china_future 	instrument:LR411
+R 	china_future 	instrument:jm1508
+R 	china_future 	instrument:RM508
+R 	china_future 	instrument:SF412
+R 	china_future 	instrument:SM411
+R 	china_future 	instrument:IF1411
+R 	china_future 	instrument:SR603
+R 	china_future 	instrument:b1509
+R 	china_future 	instrument:bu1609
+R 	china_future 	instrument:pb1509
+R 	china_future 	instrument:rb1509
+R 	china_future 	instrument:ru1509
+R 	china_future 	instrument:wr1509
+R 	china_future 	instrument:a1603
+R 	china_future 	instrument:bb1509
+R 	china_future 	instrument:i1509
+R 	china_future 	instrument:jd1509
+R 	china_future 	instrument:l1509
+R 	china_future 	instrument:CF509
+R 	china_future 	instrument:RM507
+R 	china_future 	instrument:RS507
+R 	china_future 	instrument:m1508
+R 	china_future 	instrument:p1508
+R 	china_future 	instrument:MA508
+R 	china_future 	instrument:TC509
+R 	china_future 	instrument:TF1506
+R 	china_future 	instrument:b1507
+R 	china_future 	instrument:LR507
+R 	china_future 	instrument:SF502
+R 	china_future 	instrument:a1601
+R 	china_future 	instrument:p1507
+R 	china_future 	instrument:v1507
+R 	china_future 	instrument:ru1508
+R 	china_future 	instrument:wr1508
+R 	china_future 	instrument:IF1410
+R 	china_future 	instrument:SF504
+R 	china_future 	instrument:SM412
+R 	china_future 	instrument:SM501
+R 	china_future 	instrument:fu1507
+R 	china_future 	instrument:bb1507
+R 	china_future 	instrument:c1507
+R 	china_future 	instrument:fb1507
+R 	china_future 	instrument:j1507
+R 	china_future 	instrument:jm1507
+R 	china_future 	instrument:l1507
+R 	china_future 	instrument:pp1507
+R 	china_future 	instrument:y1507
+R 	china_future 	instrument:CF507
+R 	china_future 	instrument:FG507
+R 	china_future 	instrument:JR507
+R 	china_future 	instrument:bb1508
+R 	china_future 	instrument:TC507
+R 	china_future 	instrument:LR501
+R 	china_future 	instrument:LR505
+R 	china_future 	instrument:l1508
+R 	china_future 	instrument:pp1508
+R 	china_future 	instrument:v1508
+R 	china_future 	instrument:SF501
+R 	china_future 	instrument:SF503
+R 	china_future 	instrument:SF505
+R 	china_future 	instrument:SF506
+R 	china_future 	instrument:SF507
+R 	china_future 	instrument:SF508
+R 	china_future 	instrument:SM503
+R 	china_future 	instrument:SM504
+R 	china_future 	instrument:SM505
+R 	china_future 	instrument:SM506
+R 	china_future 	instrument:SM507
+R 	china_future 	instrument:SPD TC410&TC412
+R 	china_future 	instrument:SPD TC410&TC509
+R 	china_future 	instrument:SPD TC410&TC506
+R 	china_future 	instrument:SPD TC410&TC505
+R 	china_future 	instrument:SPD TC410&TC502
+R 	china_future 	instrument:SPD TC410&TC411
+R 	china_future 	instrument:SPD TC410&TC501
+R 	china_future 	instrument:SPD TC410&TC504
+R 	china_future 	instrument:SPD TC410&TC508
+R 	china_future 	instrument:SPD TC410&TC507
+R 	china_future 	instrument:SPD TC410&TC503
+R 	china_future 	instrument:SP pp1501&pp1501
+R 	china_future 	instrument:SP pp1501&pp1505
+R 	china_future 	instrument:SP pp1501&pp1509
+R 	china_future 	instrument:SPC i1506&j1501
+R 	china_future 	instrument:SPD TC506&TC509
+R 	china_future 	instrument:SPD TC506&TC507
+R 	china_future 	instrument:SPD TC506&TC508
+R 	china_future 	instrument:SPD SR503&SR507
+R 	china_future 	instrument:SPD SR503&SR505
+R 	china_future 	instrument:SPD SR503&SR509
+R 	china_future 	instrument:SPD SR503&SR511
+R 	china_future 	instrument:SPD SR503&SR601
+R 	china_future 	instrument:SPD SR503&SR603
+R 	china_future 	instrument:SPD SF501&SF508
+R 	china_future 	instrument:SPD SF501&SF502
+R 	china_future 	instrument:SPD SF501&SF503
+R 	china_future 	instrument:SPD SF501&SF504
+R 	china_future 	instrument:SPD SF501&SF505
+R 	china_future 	instrument:SPD SF501&SF506
+R 	china_future 	instrument:SPD SF501&SF507
+R 	china_future 	instrument:SPD SF501&SF509
+R 	china_future 	instrument:SPD PM505&PM507
+R 	china_future 	instrument:SPD PM505&PM509
+R 	china_future 	instrument:SPD TA508&TA509
+R 	china_future 	instrument:SPD SM504&SM508
+R 	china_future 	instrument:SPD SM504&SM505
+R 	china_future 	instrument:SPD SM504&SM506
+R 	china_future 	instrument:SPD SM504&SM507
+R 	china_future 	instrument:SPD SM504&SM509
+R 	china_future 	instrument:SPD SF504&SF508
+R 	china_future 	instrument:SPD SF504&SF505
+R 	china_future 	instrument:SPD SF504&SF506
+R 	china_future 	instrument:SPD SF504&SF507
+R 	china_future 	instrument:SPD SF504&SF509
+R 	china_future 	instrument:SP fb1501&fb1501
+R 	china_future 	instrument:SPC fb1501&bb1501
+R 	china_future 	instrument:SP fb1501&fb1505
+R 	china_future 	instrument:SP fb1501&fb1509
+R 	china_future 	instrument:SPD SF411&SF504
+R 	china_future 	instrument:SPD SF411&SF505
+R 	china_future 	instrument:SPD SF411&SF506
+R 	china_future 	instrument:SPD SF411&SF507
+R 	china_future 	instrument:SPD SF411&SF508
+R 	china_future 	instrument:SPD SF411&SF412
+R 	china_future 	instrument:SPD SF411&SF501
+R 	china_future 	instrument:SPD SF411&SF502
+R 	china_future 	instrument:SPD SF411&SF503
+R 	china_future 	instrument:SPD SF411&SF509
+R 	china_future 	instrument:SP jd1505&jd1505
+R 	china_future 	instrument:SP jd1505&jd1509
+R 	china_future 	instrument:SP j1505&j1505
+R 	china_future 	instrument:SPC j1505&jm1501
+R 	china_future 	instrument:SPC j1505&jm1505
+R 	china_future 	instrument:SP j1505&j1509
+R 	china_future 	instrument:SPD PM501&PM507
+R 	china_future 	instrument:SPD PM501&PM503
+R 	china_future 	instrument:SPD PM501&PM505
+R 	china_future 	instrument:SPD PM501&PM509
+R 	china_future 	instrument:SPD RM411&RM508
+R 	china_future 	instrument:SPD RM411&RM507
+R 	china_future 	instrument:SPD RM411&RM505
+R 	china_future 	instrument:SPD RM411&RM501
+R 	china_future 	instrument:SPD RM411&RM503
+R 	china_future 	instrument:SPD RM411&RM509
+R 	china_future 	instrument:SP v1501&v1505
+R 	china_future 	instrument:SPC v1501&pp1501
+R 	china_future 	instrument:SP v1501&v1509
+R 	china_future 	instrument:SPC fb1505&bb1505
+R 	china_future 	instrument:SP fb1505&fb1509
+R 	china_future 	instrument:SPD TC507&TC509
+R 	china_future 	instrument:SPD TC507&TC508
+R 	china_future 	instrument:SPD SM411&SM412
+R 	china_future 	instrument:SPD SM411&SM501
+R 	china_future 	instrument:SPD SM411&SM502
+R 	china_future 	instrument:SPD SM411&SM503
+R 	china_future 	instrument:SPD SM411&SM504
+R 	china_future 	instrument:SPD SM411&SM505
+R 	china_future 	instrument:SPD SM411&SM506
+R 	china_future 	instrument:SPD SM411&SM507
+R 	china_future 	instrument:SPD SM411&SM509
+R 	china_future 	instrument:SPD SM411&SM508
+R 	china_future 	instrument:SPD WH507&WH509
+R 	china_future 	instrument:SPD RI505&RI507
+R 	china_future 	instrument:SPD RI505&RI509
+R 	china_future 	instrument:SPD WH505&WH507
+R 	china_future 	instrument:SPD WH505&WH509
+R 	china_future 	instrument:SPD ME504&ME505
+R 	china_future 	instrument:SP m1503&m1505
+R 	china_future 	instrument:SPD TA504&TA508
+R 	china_future 	instrument:SPD TA504&TA505
+R 	china_future 	instrument:SPD TA504&TA506
+R 	china_future 	instrument:SPD TA504&TA507
+R 	china_future 	instrument:SPD TA504&TA509
+R 	china_future 	instrument:SPD SM412&SM508
+R 	china_future 	instrument:SPD SM412&SM501
+R 	china_future 	instrument:SPD SM412&SM502
+R 	china_future 	instrument:SPD SM412&SM503
+R 	china_future 	instrument:SPD SM412&SM504
+R 	china_future 	instrument:SPD SM412&SM505
+R 	china_future 	instrument:SPD SM412&SM506
+R 	china_future 	instrument:SPD SM412&SM507
+R 	china_future 	instrument:SPD SM412&SM509
+R 	china_future 	instrument:SPD RM507&RM508
+R 	china_future 	instrument:SPD RM507&RM509
+R 	china_future 	instrument:SP jd1410&jd1411
+R 	china_future 	instrument:SPD SM507&SM508
+R 	china_future 	instrument:SPD SM507&SM509
+R 	china_future 	instrument:SPD RI501&RI503
+R 	china_future 	instrument:SPD RI501&RI505
+R 	china_future 	instrument:SPD RI501&RI507
+R 	china_future 	instrument:SPD RI501&RI509
+R 	china_future 	instrument:SPC a1509&m1501
+R 	china_future 	instrument:SPC a1509&m1509
+R 	china_future 	instrument:SPC a1509&m1505
+R 	china_future 	instrument:SP a1509&a1601
+R 	china_future 	instrument:SPD FG505&FG508
+R 	china_future 	instrument:SPD FG505&FG506
+R 	china_future 	instrument:SPD FG505&FG507
+R 	china_future 	instrument:SPD FG505&FG509
+R 	china_future 	instrument:SP j1412&j1505
+R 	china_future 	instrument:SPC i1505&j1501
+R 	china_future 	instrument:SPC i1505&jm1501
+R 	china_future 	instrument:SP i1505&i1505
+R 	china_future 	instrument:SP i1505&i1509
+R 	china_future 	instrument:SPD RS507&RS508
+R 	china_future 	instrument:SPD RS507&RS509
+R 	china_future 	instrument:SPD SM505&SM508
+R 	china_future 	instrument:SPD SM505&SM506
+R 	china_future 	instrument:SPD SM505&SM507
+R 	china_future 	instrument:SPD SM505&SM509
+R 	china_future 	instrument:SPD TA506&TA508
+R 	china_future 	instrument:SPD TA506&TA507
+R 	china_future 	instrument:SPD TA506&TA509
+R 	china_future 	instrument:SPD TC502&TC509
+R 	china_future 	instrument:SPD TC502&TC507
+R 	china_future 	instrument:SPD TC502&TC506
+R 	china_future 	instrument:SPD TC502&TC505
+R 	china_future 	instrument:SPD TC502&TC503
+R 	china_future 	instrument:SPD TC502&TC504
+R 	china_future 	instrument:SPD TC502&TC508
+R 	china_future 	instrument:SP c1505&c1509
+R 	china_future 	instrument:SPD FG508&FG509
+R 	china_future 	instrument:SPD WH411&WH507
+R 	china_future 	instrument:SPD WH411&WH501
+R 	china_future 	instrument:SPD WH411&WH503
+R 	china_future 	instrument:SPD WH411&WH505
+R 	china_future 	instrument:SPD WH411&WH509
+R 	china_future 	instrument:SP m1505&m1507
+R 	china_future 	instrument:SP m1505&m1505
+R 	china_future 	instrument:SP m1505&m1509
+R 	china_future 	instrument:SP bb1501&bb1509
+R 	china_future 	instrument:SP bb1501&bb1501
+R 	china_future 	instrument:SP bb1501&bb1505
+R 	china_future 	instrument:SPD ME411&ME412
+R 	china_future 	instrument:SPD ME411&ME501
+R 	china_future 	instrument:SPD ME411&ME505
+R 	china_future 	instrument:SPD ME411&ME502
+R 	china_future 	instrument:SPD ME411&ME503
+R 	china_future 	instrument:SPD ME411&ME504
+R 	china_future 	instrument:SPD ME501&ME505
+R 	china_future 	instrument:SPD ME501&ME504
+R 	china_future 	instrument:SPD ME501&ME502
+R 	china_future 	instrument:SPD ME501&ME503
+R 	china_future 	instrument:SPD SF507&SF508
+R 	china_future 	instrument:SPD SF507&SF509
+R 	china_future 	instrument:SPC i1504&j1501
+R 	china_future 	instrument:SPC l1501&pp1509
+R 	china_future 	instrument:SPC l1501&v1501
+R 	china_future 	instrument:SPC l1501&pp1501
+R 	china_future 	instrument:SP l1501&l1501
+R 	china_future 	instrument:SP l1501&l1505
+R 	china_future 	instrument:SPC l1501&pp1505
+R 	china_future 	instrument:SP l1501&l1509
+R 	china_future 	instrument:SPD TA505&TA508
+R 	china_future 	instrument:SPD TA505&TA506
+R 	china_future 	instrument:SPD TA505&TA507
+R 	china_future 	instrument:SPD TA505&TA509
+R 	china_future 	instrument:SPD LR507&LR509
+R 	china_future 	instrument:SPD PM507&PM509
+R 	china_future 	instrument:SPD TC503&TC509
+R 	china_future 	instrument:SPD TC503&TC507
+R 	china_future 	instrument:SPD TC503&TC506
+R 	china_future 	instrument:SPD TC503&TC505
+R 	china_future 	instrument:SPD TC503&TC504
+R 	china_future 	instrument:SPD TC503&TC508
+R 	china_future 	instrument:SPD TC411&TC506
+R 	china_future 	instrument:SPD TC411&TC503
+R 	china_future 	instrument:SPD TC411&TC502
+R 	china_future 	instrument:SPD TC411&TC412
+R 	china_future 	instrument:SPD TC411&TC501
+R 	china_future 	instrument:SPD TC411&TC504
+R 	china_future 	instrument:SPD TC411&TC505
+R 	china_future 	instrument:SPD TC411&TC508
+R 	china_future 	instrument:SPD TC411&TC509
+R 	china_future 	instrument:SPD TC411&TC507
+R 	china_future 	instrument:SPD SM506&SM508
+R 	china_future 	instrument:SPD SM506&SM507
+R 	china_future 	instrument:SPD SM506&SM509
+R 	china_future 	instrument:SPD TA507&TA508
+R 	china_future 	instrument:SPD TA507&TA509
+R 	china_future 	instrument:SPD TC501&TC509
+R 	china_future 	instrument:SPD TC501&TC504
+R 	china_future 	instrument:SPD TC501&TC508
+R 	china_future 	instrument:SPD TC501&TC507
+R 	china_future 	instrument:SPD TC501&TC506
+R 	china_future 	instrument:SPD TC501&TC505
+R 	china_future 	instrument:SPD TC501&TC503
+R 	china_future 	instrument:SPD TC501&TC502
+R 	china_future 	instrument:SPD TA412&TA506
+R 	china_future 	instrument:SPD TA412&TA507
+R 	china_future 	instrument:SPD TA412&TA508
+R 	china_future 	instrument:SPD TA412&TA504
+R 	china_future 	instrument:SPD TA412&TA501
+R 	china_future 	instrument:SPD TA412&TA502
+R 	china_future 	instrument:SPD TA412&TA503
+R 	china_future 	instrument:SPD TA412&TA505
+R 	china_future 	instrument:SPD TA412&TA509
+R 	china_future 	instrument:SPD SF505&SF508
+R 	china_future 	instrument:SPD SF505&SF506
+R 	china_future 	instrument:SPD SF505&SF507
+R 	china_future 	instrument:SPD SF505&SF509
+R 	china_future 	instrument:SPC y1509&p1501
+R 	china_future 	instrument:SPC y1509&p1509
+R 	china_future 	instrument:SP b1501&b1505
+R 	china_future 	instrument:SP b1501&b1509
+R 	china_future 	instrument:SPD TC504&TC509
+R 	china_future 	instrument:SPD TC504&TC507
+R 	china_future 	instrument:SPD TC504&TC506
+R 	china_future 	instrument:SPD TC504&TC505
+R 	china_future 	instrument:SPD TC504&TC508
+R 	china_future 	instrument:SP y1505&y1509
+R 	china_future 	instrument:SP y1505&y1505
+R 	china_future 	instrument:SPC y1505&p1501
+R 	china_future 	instrument:SPC y1505&p1505
+R 	china_future 	instrument:SP bb1505&bb1509
+R 	china_future 	instrument:SP b1505&b1509
+R 	china_future 	instrument:SPD SF506&SF508
+R 	china_future 	instrument:SPD SF506&SF507
+R 	china_future 	instrument:SPD SF506&SF509
+R 	china_future 	instrument:SPD SR511&SR601
+R 	china_future 	instrument:SPD SR511&SR603
+R 	china_future 	instrument:SPD RM501&RM507
+R 	china_future 	instrument:SPD RM501&RM508
+R 	china_future 	instrument:SPD RM501&RM503
+R 	china_future 	instrument:SPD RM501&RM505
+R 	china_future 	instrument:SPD RM501&RM509
+R 	china_future 	instrument:SPD ME502&ME504
+R 	china_future 	instrument:SPD ME502&ME503
+R 	china_future 	instrument:SPD ME502&ME505
+R 	china_future 	instrument:SPD RS411&RS508
+R 	china_future 	instrument:SPD RS411&RS507
+R 	china_future 	instrument:SPD RS411&RS509
+R 	china_future 	instrument:SPD FG501&FG508
+R 	china_future 	instrument:SPD FG501&FG504
+R 	china_future 	instrument:SPD FG501&FG502
+R 	china_future 	instrument:SPD FG501&FG503
+R 	china_future 	instrument:SPD FG501&FG505
+R 	china_future 	instrument:SPD FG501&FG506
+R 	china_future 	instrument:SPD FG501&FG507
+R 	china_future 	instrument:SPD FG501&FG509
+R 	china_future 	instrument:SPD TA503&TA507
+R 	china_future 	instrument:SPD TA503&TA508
+R 	china_future 	instrument:SPD TA503&TA504
+R 	china_future 	instrument:SPD TA503&TA505
+R 	china_future 	instrument:SPD TA503&TA506
+R 	china_future 	instrument:SPD TA503&TA509
+R 	china_future 	instrument:SP fb1411&fb1501
+R 	china_future 	instrument:SP p1505&p1505
+R 	china_future 	instrument:SP p1505&p1509
+R 	china_future 	instrument:SPD RM505&RM508
+R 	china_future 	instrument:SPD RM505&RM507
+R 	china_future 	instrument:SPD RM505&RM509
+R 	china_future 	instrument:SPD OI507&OI509
+R 	china_future 	instrument:SPD PM411&PM503
+R 	china_future 	instrument:SPD PM411&PM505
+R 	china_future 	instrument:SPD PM411&PM501
+R 	china_future 	instrument:SPD PM411&PM507
+R 	china_future 	instrument:SPD PM411&PM509
+R 	china_future 	instrument:SPD FG503&FG508
+R 	china_future 	instrument:SPD FG503&FG504
+R 	china_future 	instrument:SPD FG503&FG505
+R 	china_future 	instrument:SPD FG503&FG506
+R 	china_future 	instrument:SPD FG503&FG507
+R 	china_future 	instrument:SPD FG503&FG509
+R 	china_future 	instrument:SPD SM502&SM507
+R 	china_future 	instrument:SPD SM502&SM508
+R 	china_future 	instrument:SPD SM502&SM503
+R 	china_future 	instrument:SPD SM502&SM504
+R 	china_future 	instrument:SPD SM502&SM505
+R 	china_future 	instrument:SPD SM502&SM506
+R 	china_future 	instrument:SPD SM502&SM509
+R 	china_future 	instrument:SPD CF507&CF509
+R 	china_future 	instrument:SPD RI411&RI501
+R 	china_future 	instrument:SPD RI411&RI503
+R 	china_future 	instrument:SPD RI411&RI505
+R 	china_future 	instrument:SPD RI411&RI507
+R 	china_future 	instrument:SPD RI411&RI509
+R 	china_future 	instrument:SP jm1501&jm1501
+R 	china_future 	instrument:SP jm1501&jm1505
+R 	china_future 	instrument:SP jm1501&jm1509
+R 	china_future 	instrument:SPD FG410&FG501
+R 	china_future 	instrument:SPD FG410&FG412
+R 	china_future 	instrument:SPD FG410&FG502
+R 	china_future 	instrument:SPD FG410&FG503
+R 	china_future 	instrument:SPD FG410&FG505
+R 	china_future 	instrument:SPD FG410&FG506
+R 	china_future 	instrument:SPD FG410&FG507
+R 	china_future 	instrument:SPD FG410&FG508
+R 	china_future 	instrument:SPD FG410&FG504
+R 	china_future 	instrument:SPD FG410&FG509
+R 	china_future 	instrument:SPD FG410&FG411
+R 	china_future 	instrument:SPD OI505&OI507
+R 	china_future 	instrument:SPD OI505&OI509
+R 	china_future 	instrument:SPD LR505&LR507
+R 	china_future 	instrument:SPD LR505&LR509
+R 	china_future 	instrument:SP j1410&j1505
+R 	china_future 	instrument:SP j1410&j1501
+R 	china_future 	instrument:SPD OI503&OI505
+R 	china_future 	instrument:SPD OI503&OI507
+R 	china_future 	instrument:SPD OI503&OI509
+R 	china_future 	instrument:SPD LR411&LR505
+R 	china_future 	instrument:SPD LR411&LR503
+R 	china_future 	instrument:SPD LR411&LR501
+R 	china_future 	instrument:SPD LR411&LR507
+R 	china_future 	instrument:SPD LR411&LR509
+R 	china_future 	instrument:SPD SR411&SR503
+R 	china_future 	instrument:SPD SR411&SR501
+R 	china_future 	instrument:SPD SR411&SR505
+R 	china_future 	instrument:SPD SR411&SR509
+R 	china_future 	instrument:SPD SR411&SR511
+R 	china_future 	instrument:SPD SR411&SR601
+R 	china_future 	instrument:SPD SR411&SR507
+R 	china_future 	instrument:SPD SR411&SR603
+R 	china_future 	instrument:SPD SF503&SF504
+R 	china_future 	instrument:SPD SF503&SF505
+R 	china_future 	instrument:SPD SF503&SF506
+R 	china_future 	instrument:SPD SF503&SF507
+R 	china_future 	instrument:SPD SF503&SF508
+R 	china_future 	instrument:SPD SF503&SF509
+R 	china_future 	instrument:SP p1501&p1505
+R 	china_future 	instrument:SP p1501&p1506
+R 	china_future 	instrument:SP p1501&p1501
+R 	china_future 	instrument:SP p1501&p1503
+R 	china_future 	instrument:SP p1501&p1509
+R 	china_future 	instrument:SPD SM508&SM509
+R 	china_future 	instrument:SPD ME412&ME505
+R 	china_future 	instrument:SPD ME412&ME502
+R 	china_future 	instrument:SPD ME412&ME503
+R 	china_future 	instrument:SPD ME412&ME504
+R 	china_future 	instrument:SPD ME412&ME501
+R 	china_future 	instrument:SP m1411&m1501
+R 	china_future 	instrument:SP m1411&m1412
+R 	china_future 	instrument:SP p1412&p1501
+R 	china_future 	instrument:SPD SM501&SM508
+R 	china_future 	instrument:SPD SM501&SM502
+R 	china_future 	instrument:SPD SM501&SM503
+R 	china_future 	instrument:SPD SM501&SM504
+R 	china_future 	instrument:SPD SM501&SM505
+R 	china_future 	instrument:SPD SM501&SM506
+R 	china_future 	instrument:SPD SM501&SM507
+R 	china_future 	instrument:SPD SM501&SM509
+R 	china_future 	instrument:SPD RM508&RM509
+R 	china_future 	instrument:SPD CF505&CF507
+R 	china_future 	instrument:SPD CF505&CF509
+R 	china_future 	instrument:SP c1501&c1501
+R 	china_future 	instrument:SP c1501&c1505
+R 	china_future 	instrument:SP c1501&c1509
+R 	china_future 	instrument:SPD ME503&ME504
+R 	china_future 	instrument:SPD ME503&ME505
+R 	china_future 	instrument:SPD TA411&TA507
+R 	china_future 	instrument:SPD TA411&TA508
+R 	china_future 	instrument:SPD TA411&TA505
+R 	china_future 	instrument:SPD TA411&TA506
+R 	china_future 	instrument:SPD TA411&TA501
+R 	china_future 	instrument:SPD TA411&TA412
+R 	china_future 	instrument:SPD TA411&TA502
+R 	china_future 	instrument:SPD TA411&TA503
+R 	china_future 	instrument:SPD TA411&TA504
+R 	china_future 	instrument:SPD TA411&TA509
+R 	china_future 	instrument:SPD RS508&RS509
+R 	china_future 	instrument:SPD CF503&CF505
+R 	china_future 	instrument:SPD CF503&CF507
+R 	china_future 	instrument:SPD CF503&CF509
+R 	china_future 	instrument:SP pp1505&pp1509
+R 	china_future 	instrument:SP jd1503&jd1505
+R 	china_future 	instrument:SPD PM503&PM505
+R 	china_future 	instrument:SPD PM503&PM507
+R 	china_future 	instrument:SPD PM503&PM509
+R 	china_future 	instrument:SPC a1601&m1509
+R 	china_future 	instrument:SPC a1601&m1507
+R 	china_future 	instrument:SPC a1601&m1505
+R 	china_future 	instrument:SPD LR503&LR505
+R 	china_future 	instrument:SPD LR503&LR507
+R 	china_future 	instrument:SPD LR503&LR509
+R 	china_future 	instrument:SPD JR411&JR505
+R 	china_future 	instrument:SPD JR411&JR501
+R 	china_future 	instrument:SPD JR411&JR503
+R 	china_future 	instrument:SPD JR411&JR507
+R 	china_future 	instrument:SPD JR411&JR509
+R 	china_future 	instrument:SPD TA410&TA508
+R 	china_future 	instrument:SPD TA410&TA503
+R 	china_future 	instrument:SPD TA410&TA507
+R 	china_future 	instrument:SPD TA410&TA502
+R 	china_future 	instrument:SPD TA410&TA501
+R 	china_future 	instrument:SPD TA410&TA412
+R 	china_future 	instrument:SPD TA410&TA411
+R 	china_future 	instrument:SPD TA410&TA505
+R 	china_future 	instrument:SPD TA410&TA506
+R 	china_future 	instrument:SPD TA410&TA504
+R 	china_future 	instrument:SPD TA410&TA509
+R 	china_future 	instrument:SPD MA508&MA509
+R 	china_future 	instrument:SPD TC505&TC509
+R 	china_future 	instrument:SPD TC505&TC506
+R 	china_future 	instrument:SPD TC505&TC507
+R 	china_future 	instrument:SPD TC505&TC508
+R 	china_future 	instrument:SPD WH501&WH503
+R 	china_future 	instrument:SPD WH501&WH505
+R 	china_future 	instrument:SPD WH501&WH507
+R 	china_future 	instrument:SPD WH501&WH509
+R 	china_future 	instrument:SP i1410&i1501
+R 	china_future 	instrument:SP i1410&i1504
+R 	china_future 	instrument:SPD LR501&LR507
+R 	china_future 	instrument:SPD LR501&LR505
+R 	china_future 	instrument:SPD LR501&LR509
+R 	china_future 	instrument:SPD LR501&LR503
+R 	china_future 	instrument:SPD SR501&SR505
+R 	china_future 	instrument:SPD SR501&SR511
+R 	china_future 	instrument:SPD SR501&SR601
+R 	china_future 	instrument:SPD SR501&SR509
+R 	china_future 	instrument:SPD SR501&SR507
+R 	china_future 	instrument:SPD SR501&SR503
+R 	china_future 	instrument:SPD SR501&SR603
+R 	china_future 	instrument:SPD TA501&TA502
+R 	china_future 	instrument:SPD TA501&TA504
+R 	china_future 	instrument:SPD TA501&TA505
+R 	china_future 	instrument:SPD TA501&TA506
+R 	china_future 	instrument:SPD TA501&TA507
+R 	china_future 	instrument:SPD TA501&TA508
+R 	china_future 	instrument:SPD TA501&TA503
+R 	china_future 	instrument:SPD TA501&TA509
+R 	china_future 	instrument:SPD FG412&FG508
+R 	china_future 	instrument:SPD FG412&FG502
+R 	china_future 	instrument:SPD FG412&FG501
+R 	china_future 	instrument:SPD FG412&FG503
+R 	china_future 	instrument:SPD FG412&FG505
+R 	china_future 	instrument:SPD FG412&FG504
+R 	china_future 	instrument:SPD FG412&FG506
+R 	china_future 	instrument:SPD FG412&FG507
+R 	china_future 	instrument:SPD FG412&FG509
+R 	china_future 	instrument:SP a1411&a1501
+R 	china_future 	instrument:SP m1509&m1509
+R 	china_future 	instrument:SP a1505&a1505
+R 	china_future 	instrument:SPC a1505&m1501
+R 	china_future 	instrument:SPC a1505&m1505
+R 	china_future 	instrument:SP a1505&a1509
+R 	china_future 	instrument:SPC a1505&m1509
+R 	china_future 	instrument:SPD OI411&OI503
+R 	china_future 	instrument:SPD OI411&OI501
+R 	china_future 	instrument:SPD OI411&OI505
+R 	china_future 	instrument:SPD OI411&OI507
+R 	china_future 	instrument:SPD OI411&OI509
+R 	china_future 	instrument:SPC l1505&pp1505
+R 	china_future 	instrument:SPC l1505&pp1501
+R 	china_future 	instrument:SPC l1505&v1505
+R 	china_future 	instrument:SP l1505&l1509
+R 	china_future 	instrument:SPD MA506&MA509
+R 	china_future 	instrument:SPD MA506&MA508
+R 	china_future 	instrument:SPD MA506&MA507
+R 	china_future 	instrument:SPD FG507&FG508
+R 	china_future 	instrument:SPD FG507&FG509
+R 	china_future 	instrument:SPD SM503&SM505
+R 	china_future 	instrument:SPD SM503&SM506
+R 	china_future 	instrument:SPD SM503&SM508
+R 	china_future 	instrument:SPD SM503&SM504
+R 	china_future 	instrument:SPD SM503&SM507
+R 	china_future 	instrument:SPD SM503&SM509
+R 	china_future 	instrument:SPD RM503&RM508
+R 	china_future 	instrument:SPD RM503&RM507
+R 	china_future 	instrument:SPD RM503&RM505
+R 	china_future 	instrument:SPD RM503&RM509
+R 	china_future 	instrument:SPD RI503&RI507
+R 	china_future 	instrument:SPD RI503&RI505
+R 	china_future 	instrument:SPD RI503&RI509
+R 	china_future 	instrument:SPD OI501&OI505
+R 	china_future 	instrument:SPD OI501&OI503
+R 	china_future 	instrument:SPD OI501&OI507
+R 	china_future 	instrument:SPD OI501&OI509
+R 	china_future 	instrument:SPD RI507&RI509
+R 	china_future 	instrument:SPD JR507&JR509
+R 	china_future 	instrument:SPC fb1509&bb1509
+R 	china_future 	instrument:SP bb1410&bb1501
+R 	china_future 	instrument:SPD SR507&SR511
+R 	china_future 	instrument:SPD SR507&SR509
+R 	china_future 	instrument:SPD SR507&SR601
+R 	china_future 	instrument:SPD SR507&SR603
+R 	china_future 	instrument:SP jd1501&jd1501
+R 	china_future 	instrument:SP jd1501&jd1505
+R 	china_future 	instrument:SP jd1501&jd1503
+R 	china_future 	instrument:SP jd1501&jd1509
+R 	china_future 	instrument:SPD JR503&JR505
+R 	china_future 	instrument:SPD JR503&JR507
+R 	china_future 	instrument:SPD JR503&JR509
+R 	china_future 	instrument:SPD SF508&SF509
+R 	china_future 	instrument:SPD CF411&CF505
+R 	china_future 	instrument:SPD CF411&CF501
+R 	china_future 	instrument:SPD CF411&CF503
+R 	china_future 	instrument:SPD CF411&CF507
+R 	china_future 	instrument:SPD CF411&CF509
+R 	china_future 	instrument:SP m1501&m1501
+R 	china_future 	instrument:SP m1501&m1503
+R 	china_future 	instrument:SP m1501&m1505
+R 	china_future 	instrument:SP m1501&m1509
+R 	china_future 	instrument:SPC a1501&m1507
+R 	china_future 	instrument:SPC a1501&m1501
+R 	china_future 	instrument:SP a1501&a1505
+R 	china_future 	instrument:SP a1501&a1509
+R 	china_future 	instrument:SPC a1501&m1505
+R 	china_future 	instrument:SP a1501&a1501
+R 	china_future 	instrument:SPC a1501&m1509
+R 	china_future 	instrument:SPD MA507&MA508
+R 	china_future 	instrument:SPD MA507&MA509
+R 	china_future 	instrument:SPD FG506&FG508
+R 	china_future 	instrument:SPD FG506&FG507
+R 	china_future 	instrument:SPD FG506&FG509
+R 	china_future 	instrument:SPD SF412&SF508
+R 	china_future 	instrument:SPD SF412&SF501
+R 	china_future 	instrument:SPD SF412&SF502
+R 	china_future 	instrument:SPD SF412&SF503
+R 	china_future 	instrument:SPD SF412&SF504
+R 	china_future 	instrument:SPD SF412&SF505
+R 	china_future 	instrument:SPD SF412&SF506
+R 	china_future 	instrument:SPD SF412&SF507
+R 	china_future 	instrument:SPD SF412&SF509
+R 	china_future 	instrument:SPD SR601&SR603
+R 	china_future 	instrument:SP m1507&m1507
+R 	china_future 	instrument:SP jm1505&jm1505
+R 	china_future 	instrument:SP jm1505&jm1509
+R 	china_future 	instrument:SPD TC508&TC509
+R 	china_future 	instrument:SPD SR505&SR507
+R 	china_future 	instrument:SPD SR505&SR509
+R 	china_future 	instrument:SPD SR505&SR601
+R 	china_future 	instrument:SPD SR505&SR511
+R 	china_future 	instrument:SPD SR505&SR603
+R 	china_future 	instrument:SP bb1411&bb1411
+R 	china_future 	instrument:SP bb1411&bb1501
+R 	china_future 	instrument:SPD WH503&WH507
+R 	china_future 	instrument:SPD WH503&WH505
+R 	china_future 	instrument:SPD WH503&WH509
+R 	china_future 	instrument:SPD CF501&CF503
+R 	china_future 	instrument:SPD CF501&CF505
+R 	china_future 	instrument:SPD CF501&CF507
+R 	china_future 	instrument:SPD CF501&CF509
+R 	china_future 	instrument:SPD FG411&FG508
+R 	china_future 	instrument:SPD FG411&FG506
+R 	china_future 	instrument:SPD FG411&FG501
+R 	china_future 	instrument:SPD FG411&FG412
+R 	china_future 	instrument:SPD FG411&FG502
+R 	china_future 	instrument:SPD FG411&FG503
+R 	china_future 	instrument:SPD FG411&FG505
+R 	china_future 	instrument:SPD FG411&FG504
+R 	china_future 	instrument:SPD FG411&FG507
+R 	china_future 	instrument:SPD FG411&FG509
+R 	china_future 	instrument:SPD JR501&JR503
+R 	china_future 	instrument:SPD JR501&JR505
+R 	china_future 	instrument:SPD JR501&JR507
+R 	china_future 	instrument:SPD JR501&JR509
+R 	china_future 	instrument:SPD FG504&FG508
+R 	china_future 	instrument:SPD FG504&FG505
+R 	china_future 	instrument:SPD FG504&FG506
+R 	china_future 	instrument:SPD FG504&FG507
+R 	china_future 	instrument:SPD FG504&FG509
+R 	china_future 	instrument:SPD ME410&ME411
+R 	china_future 	instrument:SPD ME410&ME502
+R 	china_future 	instrument:SPD ME410&ME503
+R 	china_future 	instrument:SPD ME410&ME501
+R 	china_future 	instrument:SPD ME410&ME412
+R 	china_future 	instrument:SPD ME410&ME505
+R 	china_future 	instrument:SPD ME410&ME504
+R 	china_future 	instrument:SP i1501&i1509
+R 	china_future 	instrument:SPC i1501&j1505
+R 	china_future 	instrument:SP i1501&i1501
+R 	china_future 	instrument:SPC i1501&jm1501
+R 	china_future 	instrument:SPC i1501&jm1505
+R 	china_future 	instrument:SP i1501&i1506
+R 	china_future 	instrument:SP i1501&i1505
+R 	china_future 	instrument:SPC i1501&j1501
+R 	china_future 	instrument:SPC j1501&jm1505
+R 	china_future 	instrument:SP j1501&j1502
+R 	china_future 	instrument:SP j1501&j1501
+R 	china_future 	instrument:SPC j1501&jm1501
+R 	china_future 	instrument:SP j1501&j1505
+R 	china_future 	instrument:SP j1501&j1509
+R 	china_future 	instrument:SP v1505&v1509
+R 	china_future 	instrument:SPD SF502&SF503
+R 	china_future 	instrument:SPD SF502&SF504
+R 	china_future 	instrument:SPD SF502&SF505
+R 	china_future 	instrument:SPD SF502&SF506
+R 	china_future 	instrument:SPD SF502&SF507
+R 	china_future 	instrument:SPD SF502&SF508
+R 	china_future 	instrument:SPD SF502&SF509
+R 	china_future 	instrument:SPD FG502&FG508
+R 	china_future 	instrument:SPD FG502&FG504
+R 	china_future 	instrument:SPD FG502&FG503
+R 	china_future 	instrument:SPD FG502&FG505
+R 	china_future 	instrument:SPD FG502&FG506
+R 	china_future 	instrument:SPD FG502&FG507
+R 	china_future 	instrument:SPD FG502&FG509
+R 	china_future 	instrument:SP y1501&y1501
+R 	china_future 	instrument:SP y1501&y1505
+R 	china_future 	instrument:SPC y1501&p1505
+R 	china_future 	instrument:SPC y1501&p1501
+R 	china_future 	instrument:SP y1501&y1508
+R 	china_future 	instrument:SP y1501&y1509
+R 	china_future 	instrument:SPD TC412&TC507
+R 	china_future 	instrument:SPD TC412&TC506
+R 	china_future 	instrument:SPD TC412&TC505
+R 	china_future 	instrument:SPD TC412&TC502
+R 	china_future 	instrument:SPD TC412&TC503
+R 	china_future 	instrument:SPD TC412&TC501
+R 	china_future 	instrument:SPD TC412&TC504
+R 	china_future 	instrument:SPD TC412&TC508
+R 	china_future 	instrument:SPD TC412&TC509
+R 	china_future 	instrument:SPD SR509&SR601
+R 	china_future 	instrument:SPD SR509&SR511
+R 	china_future 	instrument:SPD SR509&SR603
+R 	china_future 	instrument:SP m1412&m1501
+R 	china_future 	instrument:SPC l1509&v1509
+R 	china_future 	instrument:SPD JR505&JR507
+R 	china_future 	instrument:SPD JR505&JR509
+R 	china_future 	instrument:SPD TA502&TA507
+R 	china_future 	instrument:SPD TA502&TA504
+R 	china_future 	instrument:SPD TA502&TA503
+R 	china_future 	instrument:SPD TA502&TA505
+R 	china_future 	instrument:SPD TA502&TA506
+R 	china_future 	instrument:SPD TA502&TA508
+R 	china_future 	instrument:SPD TA502&TA509
+R 	china_future 	instrument:SP j1411&j1501
+R 	china_future 	instrument:agefp
+R 	china_future 	instrument:alefp
+R 	china_future 	instrument:auefp
+R 	china_future 	instrument:buefp
+R 	china_future 	instrument:cuefp
+R 	china_future 	instrument:fuefp
+R 	china_future 	instrument:hcefp
+R 	china_future 	instrument:pbefp
+R 	china_future 	instrument:rbefp
+R 	china_future 	instrument:ruefp
+R 	china_future 	instrument:wrefp
+R 	china_future 	instrument:znefp
+R 	china_future 	query instrument finish
+R 	china_future 	connected!
+S 	china_future 	login: brokerID:7030 userID:98507 password:123456 seq:0
+R 	china_future 	login failed, errorcode=3 errormsg=CTP:不合法的登录 requestid=0chain=1
